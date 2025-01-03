@@ -1,1 +1,2 @@
-Parallax Website
+Parallax Website using html and CSS
+
